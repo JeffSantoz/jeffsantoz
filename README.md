@@ -1,4 +1,4 @@
-## Eai! Eu sou o Jefferson Carlos, ou mais conhecido com Jeff.  👋
+## Eai! Eu sou o Jefferson Carlos, Sejam muito bem-vindos!!!  👋
 • Father of @heitorgabriel_tor 🧸
 • Control and Automation Engineer 🎓
 • Twitch - jeffsantoz🎮🏆
