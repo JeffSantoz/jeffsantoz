@@ -1,7 +1,10 @@
 ## Eai! Eu sou o Jefferson Carlos, Sejam muito bem-vindos!!!  👋
-• Father of @heitorgabriel_tor 🧸
-• Control and Automation Engineer 🎓
-• Twitch - jeffsantoz🎮🏆
+<h1>Sobre mim</h1>
+Podem me chamar de Jeff, estudante de engenharia de controle e automação, Pai do pequeno Heitor Gabriel e apaixonado por tecnologia.
+
+Que compartilhar aqui o que ensino tradicional deixa de fora. Finanças, política, oratória, tecnologia... You name it.
+
+Meu maior objetivo é inspirar pessoas através da tecnologia. Quero Indicar e escrever sobre os assuntos quais falei mais acima. Quero mostrar que a tecnologia veio pra tornar nossas vidas mais divertidas e simplificadas. Realizar uma troca de conhecimento e novas ideias com vocês.
 <div>
   <a href="https://github.com/JeffSantoz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JeffSantoz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
