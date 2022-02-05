@@ -4,7 +4,7 @@ Podem me chamar de Jeff, estudante de engenharia de controle e automação, Pai 
 
 Que compartilhar aqui o que ensino tradicional deixa de fora. Finanças, política, oratória, tecnologia... You name it.
 
-Meu maior objetivo é inspirar pessoas através da tecnologia. Quero Indicar e escrever sobre os assuntos quais falei mais acima. Quero mostrar que a tecnologia veio pra tornar nossas vidas mais divertidas e simplificadas. Realizar uma troca de conhecimento e novas ideias com vocês.
+Meu maior objetivo é inspirar pessoas através da tecnologia. Quero Indicar e escrever sobre os assuntos quais falei mas acima. Quero mostrar que a tecnologia veio pra tornar nossas vidas mais divertidas e simplificadas. Realizar uma troca de conhecimento e novas ideias com vocês.
 
 E aí? Bora?
 <div>
