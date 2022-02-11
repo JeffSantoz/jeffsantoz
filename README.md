@@ -4,12 +4,14 @@ Podem me chamar de Jeff, estudante de engenharia de controle e automação, Pai 
 
 Meu maior objetivo é inspirar pessoas através da tecnologia. Quero mostrar que a tecnologia veio pra tornar nossas vidas mais divertidas e simplificadas. Realizar uma troca de conhecimento e novas ideias com vocês.
 
+
 E aí? Bora?
 <div>
   <a href="https://github.com/JeffSantoz">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JeffSantoz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSantoz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffSantoz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffSantoz&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
   
 </div>
 <div style="display: inline_block"><br>
@@ -19,10 +21,8 @@ E aí? Bora?
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
 </div>  
 
-<a href="https://app.daily.dev/Jeffsantoz"><img src="https://api.daily.dev/devcards/4f02176574cf4404baef74d404071be3.png?r=wfu" width="400" alt="Jefferson Carlos's Dev Card"/></a>
 
 ##
 
