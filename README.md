@@ -22,6 +22,8 @@ E aí? Bora?
  
 </div>  
 
+<a href="https://app.daily.dev/Jeffsantoz"><img src="https://api.daily.dev/devcards/4f02176574cf4404baef74d404071be3.png?r=wfu" width="400" alt="Jefferson Carlos's Dev Card"/></a>
+
 ##
 
 <div> 
